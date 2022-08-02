@@ -15,3 +15,5 @@
 1xx0xx1xx8xx1xxuxx0xx_xxaxx1xx8xx1 ppl 15 jly
 1xx0xx3xx2xx8xxuxx0xx_xxaxx3xx2xx8 sgr 14jly
 1xx0xx3xx1xx2xxuxx0xx_xxaxx3xx1xx2 arif 2 agst arif
+1xx0xx3xx1xx3xxuxx0xx_xxaxx3xx1xx3  crpt 
+1xx0xx1xx8xx2xxuxx0xx_xxaxx1xx8xx2  gujr
