@@ -17,7 +17,7 @@
 1xx0xx5xx2xx5xxuxx0xx_xxaxx5xx2xx5 hqs 15 jly
 1xx0xx3xx1xx4xxuxx0xx_xxaxx3xx1xx4 haidr  24 july
 1xx0xx2xx4xx1xxuxx0xx_xxaxx2xx4xx1  bdnam
-1xx0xx1xx7xx0xxuxx0xx_xxaxx1xx7xx0 rbia 17 jly
+1xx0xx1xx7xx0xxuxx0xx_xxaxx1xx7xx
 1xx0xx1xx8xx1xxuxx0xx_xxaxx1xx8xx1 ppl 15 jly
 1xx0xx3xx2xx8xxuxx0xx_xxaxx3xx2xx8 sgr 14jly
 1xx0xx3xx1xx2xxuxx0xx_xxaxx3xx1xx2 arif 2 agst arif
@@ -33,4 +33,4 @@
 1xx0xx3xx2xx2xxuxx0xx_xxaxx3xx2xx2 fashion  asgt 5
 1xx0xx1xx2xx1xxuxx0xx_xxaxx1xx2xx1  bdn@?
 1xx0xx2xx4xx4xxuxx0xx_xxaxx2xx4xx4  klmn 
-1xx0xx3xx3xx5xxuxx0xx_xxaxx3xx3xx5 fardn tril onday
+ fardn tril onday
